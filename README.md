@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a part of full stack application. [Back end](https://github.com/ugbandula/fullstack-build-backend).
 
 ## Available Scripts
 
