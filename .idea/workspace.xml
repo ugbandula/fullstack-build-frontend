@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db4612f4-24d4-4038-af94-26213e502df9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/news/NewsService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/Dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/Dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/UserService.ts" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566949533851</updated>
       <workItem from="1566949535058" duration="6448000" />
-      <workItem from="1567034805164" duration="2946000" />
+      <workItem from="1567034805164" duration="6768000" />
     </task>
     <servers />
   </component>

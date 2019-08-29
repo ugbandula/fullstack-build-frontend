@@ -1,10 +1,12 @@
 import React, {useState, useEffect} from 'react';
-import UserService from "../../users/UserService";
+import NewsService from "../../news/NewsService";
 
-let userService = new UserService();
-userService.toString();
+// let userService = new NewsService();
+// userService.toString();
 
 const Dashboard = () => {
+    let userService = new NewsService();
+    userService.toString();
 
     // Input field onChnage event definition
     const onChange = event => setValue(event.target.value);
